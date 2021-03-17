@@ -1,1 +1,6 @@
-
+{
+"name": "Mofox",
+"description": "Mofox cardano stake pool",
+"ticker": "Mofox",
+"homepage": "https://ada.mofox.fit"
+}
